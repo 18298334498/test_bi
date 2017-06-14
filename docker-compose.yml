@@ -1,0 +1,7 @@
+kettle-singlenode:
+    image: kettle:0.1
+    restart: always
+#    containername:kettle-s
+    volumes:
+        - /data/docker/znbi/:/data/
+        - /data/docker/znbi/bi/conf/.kettle /root/data-integration/.kettle
