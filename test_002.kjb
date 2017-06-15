@@ -211,12 +211,12 @@
       <name>&#x90ae;&#x4ef6;&#x9884;&#x8b66;_1</name>
       <description/>
       <type>MAIL</type>
-      <server>smtp.139.com</server>
-      <port>25</port>
+      <server>smtp.exmail.qq.com</server>
+      <port>465</port>
       <destination>289484192&#x40;qq.com</destination>
       <destinationCc/>
       <destinationBCc/>
-      <replyto>18298334498&#x40;139.com</replyto>
+      <replyto>zhangjw&#x40;huntor.cn</replyto>
       <replytoname>BI_System</replytoname>
       <subject>bi&#x7cfb;&#x7edf;&#x8fd0;&#x884c;&#x51fa;&#x9519;</subject>
       <include_date>N</include_date>
@@ -227,9 +227,9 @@
       <zip_files>N</zip_files>
       <zip_name/>
       <use_auth>Y</use_auth>
-      <use_secure_auth>N</use_secure_auth>
-      <auth_user>18298334498&#x40;139.com</auth_user>
-      <auth_password>Encrypted 2be98afc86a96cbddf949f72186a885ed</auth_password>
+      <use_secure_auth>Y</use_secure_auth>
+      <auth_user>zhangjw&#x40;huntor.cn</auth_user>
+      <auth_password>Encrypted 2be98aff9539ec0d4f248f66ad48583e0</auth_password>
       <only_comment>Y</only_comment>
       <use_HTML>N</use_HTML>
       <use_Priority>N</use_Priority>
