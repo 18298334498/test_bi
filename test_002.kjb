@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <job>
   <name>test_002</name>
     <description/>
@@ -210,18 +211,18 @@
       <name>&#x90ae;&#x4ef6;&#x9884;&#x8b66;_1</name>
       <description/>
       <type>MAIL</type>
-      <server>&#x24;&#x7b;email_smtp&#x7d;</server>
-      <port>&#x24;&#x7b;email_port&#x7d;</port>
-      <destination>&#x24;&#x7b;to_email&#x7d;</destination>
+      <server>smtp.exmail.qq.com</server>
+      <port>465</port>
+      <destination>289484192&#x40;qq.com</destination>
       <destinationCc/>
       <destinationBCc/>
-      <replyto>&#x24;&#x7b;email_addr&#x7d;</replyto>
-      <replytoname>&#x24;&#x7b;email_name&#x7d;</replytoname>
-      <subject>&#x24;&#x7b;email_title&#x7d;</subject>
+      <replyto>zhangjw&#x40;huntor.cn</replyto>
+      <replytoname>BI_System</replytoname>
+      <subject>bi&#x7cfb;&#x7edf;&#x8fd0;&#x884c;&#x51fa;&#x9519;</subject>
       <include_date>N</include_date>
       <contact_person/>
       <contact_phone/>
-      <comment>&#x24;&#x7b;email_note&#x7d;</comment>
+      <comment>BI&#x4efb;&#x52a1;&#x8fd0;&#x884c;&#x51fa;&#x9519;&#xff0c;&#x8be6;&#x60c5;&#x8bf7;&#x67e5;&#x9605;&#x9644;&#x4ef6;&#x3002;</comment>
       <include_files>Y</include_files>
       <zip_files>N</zip_files>
       <zip_name/>
