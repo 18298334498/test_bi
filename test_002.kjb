@@ -212,7 +212,7 @@
       <description/>
       <type>MAIL</type>
       <server>smtp.exmail.qq.com</server>
-      <port>465</port>
+      <port>4657</port>
       <destination>289484192&#x40;qq.com</destination>
       <destinationCc/>
       <destinationBCc/>
