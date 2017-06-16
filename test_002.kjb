@@ -66,7 +66,7 @@
       <params_from_previous>N</params_from_previous>
       <exec_per_row>N</exec_per_row>
       <set_logfile>Y</set_logfile>
-      <logfile>&#x2f;data&#x2f;kettlelog_error&#x2f;text_001</logfile>
+      <logfile>text_001</logfile>
       <logext>log</logext>
       <add_date>N</add_date>
       <add_time>N</add_time>
